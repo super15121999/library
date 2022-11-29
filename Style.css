@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.backimg{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.31Th5YlfWghHqUUyly784QHaEo&pid=Api&P=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
